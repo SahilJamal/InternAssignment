@@ -1,0 +1,12 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Navbar{
+    display: flex;
+    padding: 20px;
+}
+.Navlinks{
+    padding: 20px;
+}
